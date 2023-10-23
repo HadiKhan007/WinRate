@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "UYK2A8T422.com.winrate.app",
+        "paths": ["/register/", "/register/*", "/register", "*"]
+      }
+    ]
+  }
+}

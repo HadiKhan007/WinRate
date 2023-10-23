@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "815337858802",
+    "project_id": "winrate-ee738",
+    "storage_bucket": "winrate-ee738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815337858802:android:9ea27f8a9037131532126b",
+        "android_client_info": {
+          "package_name": "com.winrate.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815337858802-otpfrujtmb39m0scmfm0q9u1h378o408.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIUmsf-CQNoe027jL52g0Y6Zz-gVwWkg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815337858802-otpfrujtmb39m0scmfm0q9u1h378o408.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "815337858802-39jrpppdd5o7if44o1gudpk2lpq63o96.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.winrate.app",
+                "app_store_id": "6446288804"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815337858802:android:9fd9351607aefeb432126b",
+        "android_client_info": {
+          "package_name": "com.winratemobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815337858802-otpfrujtmb39m0scmfm0q9u1h378o408.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIUmsf-CQNoe027jL52g0Y6Zz-gVwWkg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815337858802-otpfrujtmb39m0scmfm0q9u1h378o408.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "815337858802-39jrpppdd5o7if44o1gudpk2lpq63o96.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.winrate.app",
+                "app_store_id": "6446288804"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

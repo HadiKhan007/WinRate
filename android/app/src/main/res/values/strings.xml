@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WinRate</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://winrate-coach-web.s3-website-us-east-1.amazonaws.com/.well-known/assetlinks.json\" }]</string>
+</resources>

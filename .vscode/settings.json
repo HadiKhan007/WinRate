@@ -1,0 +1,5 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "cSpell.words": ["persistor"],
+  "prettier.requireConfig": true
+}
